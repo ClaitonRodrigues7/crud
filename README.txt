@@ -1,4 +1,3 @@
-
 # Crud PHP
 Aplicação web com sistema de cadastro de pessoa, utilizando banco de dados(Mysql), conectando e implementado funcionalidades com PHP. Estilzado com o framework Bootstrap.
 
